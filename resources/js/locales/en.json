@@ -1,0 +1,433 @@
+{
+  "brand": "Nimbus CRM",
+  "common": {
+    "search": "Search",
+    "noResults": "No results found",
+    "previous": "Previous",
+    "next": "Next",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "confirm": "Confirm",
+    "loading": "Loading...",
+    "theme": "Theme",
+    "language": "Language",
+    "back": "Back",
+    "viewAll": "View all"
+  },
+  "nav": {
+    "features": "Features",
+    "how": "How it works",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "login": "Log in",
+    "getStarted": "Get started",
+    "dashboard": "Dashboard"
+  },
+  "landing": {
+    "hero": {
+      "badge": "New: AI pipeline automations",
+      "title": "Close more deals with a CRM your team loves",
+      "subtitle": "Centralize contacts, sales pipeline, activities and reports in one place. Full funnel visibility to sell faster.",
+      "ctaPrimary": "Open dashboard",
+      "ctaSecondary": "Talk to sales",
+      "noCard": "No credit card • Set up in minutes"
+    },
+    "stats": {
+      "conversion": "Conversion uplift",
+      "velocity": "Faster sales velocity",
+      "teams": "Sales teams",
+      "uptime": "Uptime"
+    },
+    "features": {
+      "title": "Everything your sales team needs",
+      "subtitle": "From prospecting to closing, in one flow.",
+      "items": {
+        "pipeline": { "title": "Visual pipeline", "desc": "Drag-and-drop deal Kanban across stages." },
+        "contacts": { "title": "Contacts & companies", "desc": "Organized base with tags, owner, status and full history." },
+        "activities": { "title": "Activities & tasks", "desc": "Calls, emails, meetings and tasks with reminders." },
+        "reports": { "title": "Real-time reports", "desc": "Conversion by stage, revenue and rep performance." },
+        "automation": { "title": "Automations", "desc": "Move stages and trigger tasks automatically." },
+        "security": { "title": "Secure by default", "desc": "Access control, encryption and audit logs." }
+      }
+    },
+    "how": {
+      "title": "Get started in three steps",
+      "subtitle": "From sign-up to first sale in minutes.",
+      "steps": {
+        "s1": { "title": "Import your contacts", "desc": "Bring your base and organize with tags and owners." },
+        "s2": { "title": "Build your pipeline", "desc": "Set up stages and drag deals through the funnel." },
+        "s3": { "title": "Track and sell", "desc": "Use reports to focus where you're most likely to close." }
+      }
+    },
+    "faqTitle": "Frequently asked questions",
+    "faq": {
+      "q1": "Do I need a card to try it?",
+      "a1": "No. You can explore the whole CRM with the demo account, no card required.",
+      "q2": "Can I import my contacts?",
+      "a2": "Yes, import contacts and companies and organize them with tags and owners.",
+      "q3": "Is the pipeline customizable?",
+      "a3": "Yes. Stages and probabilities can be adjusted in settings."
+    },
+    "cta": {
+      "title": "Ready to sell more?",
+      "subtitle": "Join thousands of teams closing more deals with Nimbus CRM.",
+      "button": "Create free account"
+    },
+    "footer": {
+      "tagline": "The all-in-one CRM for sales teams that want to grow fast.",
+      "rights": "All rights reserved.",
+      "privacy": "Privacy",
+      "docs": "Documentation",
+      "help": "Help"
+    }
+  },
+  "contact": {
+    "title": "Get in touch",
+    "subtitle": "Have questions? Our team replies within 24h.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send message",
+      "sending": "Sending...",
+      "success": "Message sent! We'll get back to you soon.",
+      "errors": {
+        "name": "Enter your name",
+        "email": "Invalid email",
+        "subject": "Enter a subject",
+        "message": "Message is too short"
+      }
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "addressValue": "1000 Paulista Ave — São Paulo, BR"
+    }
+  },
+  "auth": {
+    "loginTitle": "Welcome back",
+    "loginSubtitle": "Sign in to access your CRM.",
+    "registerTitle": "Create your account",
+    "registerSubtitle": "Start selling smarter in seconds.",
+    "forgotTitle": "Reset password",
+    "forgotSubtitle": "We'll send a reset link to your email.",
+    "name": "Full name",
+    "email": "Email",
+    "password": "Password",
+    "remember": "Remember me",
+    "forgot": "Forgot password?",
+    "loginCta": "Sign in",
+    "registerCta": "Create account",
+    "forgotCta": "Send link",
+    "loggingIn": "Signing in...",
+    "registering": "Creating...",
+    "sending": "Sending...",
+    "loginSuccess": "Signed in successfully!",
+    "registerSuccess": "Account created! Welcome to Nimbus CRM.",
+    "forgotSuccess": "Link sent! Check your email.",
+    "loginError": "Invalid credentials. Please try again.",
+    "noAccount": "No account?",
+    "hasAccount": "Already have an account?",
+    "backToLogin": "Back to login",
+    "demoTitle": "Demo account",
+    "demoHint": "Any email/password works.",
+    "agree": "I agree to the Terms and Privacy Policy",
+    "errors": {
+      "agree": "You must accept the terms"
+    }
+  },
+  "appNav": {
+    "main": "Main",
+    "records": "Records",
+    "insights": "Insights",
+    "dashboard": "Dashboard",
+    "pipeline": "Pipeline",
+    "contacts": "Contacts",
+    "companies": "Companies",
+    "deals": "Deals",
+    "activities": "Activities",
+    "reports": "Reports",
+    "settings": "Settings",
+    "logout": "Log out",
+    "searchPlaceholder": "Search contacts, deals...",
+    "collapse": "Collapse",
+    "notifications": "Notifications",
+    "proTitle": "Performance",
+    "proDesc": "See your reports",
+    "viewReports": "View reports"
+  },
+  "notifications": {
+    "dealWon": "Deal won: {{name}}",
+    "newLead": "New lead: {{name}}",
+    "taskDue": "Task due: {{name}}"
+  },
+  "stages": {
+    "lead": "Lead",
+    "qualified": "Qualified",
+    "proposal": "Proposal",
+    "negotiation": "Negotiation",
+    "won": "Won",
+    "lost": "Lost"
+  },
+  "tags": {
+    "vip": "VIP",
+    "hot": "Hot",
+    "newsletter": "Newsletter",
+    "partner": "Partner",
+    "enterprise": "Enterprise",
+    "trial": "Trial",
+    "referral": "Referral",
+    "inbound": "Inbound"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back, {{name}}",
+    "kpis": {
+      "pipeline": "Pipeline value",
+      "openDeals": "Open deals",
+      "conversion": "Conversion rate",
+      "tasks": "Pending tasks"
+    },
+    "revenueTitle": "Revenue: closed vs. forecast",
+    "revenueLegend": { "closed": "Closed", "forecast": "Forecast" },
+    "funnelTitle": "Funnel by stage",
+    "activityTitle": "Activities this week",
+    "rankingTitle": "Sales leaderboard",
+    "dealsWon": "{{count}} deals won",
+    "recentDeals": "Recent deals",
+    "todayTasks": "Today's tasks",
+    "noTasks": "No tasks for today 🎉"
+  },
+  "pipeline": {
+    "title": "Pipeline",
+    "subtitle": "Drag deals across the funnel stages.",
+    "dropHere": "Drop here",
+    "dragHint": "Drag the card to change stage",
+    "moved": "Deal moved to {{stage}}"
+  },
+  "contacts": {
+    "title": "Contacts",
+    "subtitle": "Manage your contact base.",
+    "new": "New contact",
+    "newTitle": "New contact",
+    "editTitle": "Edit contact",
+    "created": "Contact created successfully",
+    "updated": "Contact updated",
+    "removed": "Contact removed",
+    "notFound": "Contact not found",
+    "createdAt": "Created on",
+    "email": "Email",
+    "call": "Call",
+    "tagsLabel": "Tags",
+    "tagsHint": "Comma-separated (e.g. vip, hot)",
+    "columns": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "title": "Title",
+      "company": "Company",
+      "owner": "Owner",
+      "status": "Status",
+      "tags": "Tags"
+    },
+    "statuses": {
+      "lead": "Lead",
+      "active": "Active",
+      "customer": "Customer",
+      "inactive": "Inactive"
+    },
+    "filters": {
+      "allStatuses": "All statuses",
+      "allOwners": "All owners",
+      "allTags": "All tags"
+    },
+    "tabs": {
+      "overview": "Overview",
+      "activities": "Activities",
+      "notes": "Notes",
+      "deals": "Deals"
+    },
+    "errors": {
+      "name": "Enter a name",
+      "email": "Invalid email"
+    }
+  },
+  "companies": {
+    "title": "Companies",
+    "subtitle": "Organize the companies of your contacts.",
+    "new": "New company",
+    "newTitle": "New company",
+    "created": "Company created successfully",
+    "removed": "Company removed",
+    "columns": {
+      "name": "Company",
+      "industry": "Industry",
+      "size": "Size",
+      "website": "Website",
+      "city": "City",
+      "contacts": "Contacts",
+      "value": "Deal value"
+    },
+    "sizes": {
+      "small": "Small",
+      "medium": "Medium",
+      "large": "Large",
+      "enterprise": "Enterprise"
+    },
+    "errors": {
+      "name": "Enter a name"
+    }
+  },
+  "deals": {
+    "title": "Deals",
+    "subtitle": "Track every deal in your funnel.",
+    "new": "New deal",
+    "newModalTitle": "New deal",
+    "created": "Deal created successfully",
+    "create": "Create deal",
+    "empty": "No deals",
+    "titlePlaceholder": "e.g. Enterprise Plan — Acme",
+    "expectedClose": "Expected close",
+    "moveStage": "Move stage",
+    "stageChanged": "Stage changed to {{stage}}",
+    "detailHint": "Click a stage to move this deal.",
+    "columns": {
+      "title": "Deal",
+      "value": "Value",
+      "stage": "Stage",
+      "contact": "Contact",
+      "company": "Company",
+      "owner": "Owner",
+      "probability": "Probability"
+    },
+    "filters": {
+      "allStages": "All stages",
+      "allOwners": "All owners"
+    },
+    "errors": {
+      "title": "Enter a title",
+      "value": "Enter a valid value"
+    }
+  },
+  "activities": {
+    "title": "Activities",
+    "subtitle": "Your calls, emails, meetings and tasks.",
+    "new": "New activity",
+    "newTitle": "New activity",
+    "created": "Activity created",
+    "create": "Create activity",
+    "updated": "Activity updated",
+    "empty": "No activities",
+    "markDone": "Complete",
+    "done": "Done",
+    "titlePlaceholder": "e.g. Call the customer",
+    "types": {
+      "call": "Call",
+      "email": "Email",
+      "meeting": "Meeting",
+      "task": "Task"
+    },
+    "sections": {
+      "today": "Today",
+      "upcoming": "Upcoming",
+      "done": "Completed"
+    },
+    "filters": {
+      "allTypes": "All types"
+    },
+    "columns": {
+      "title": "Title",
+      "type": "Type",
+      "date": "Date",
+      "contact": "Contact",
+      "owner": "Owner"
+    },
+    "errors": {
+      "title": "Enter a title"
+    }
+  },
+  "notes": {
+    "add": "Add",
+    "added": "Note added",
+    "empty": "No notes yet",
+    "placeholder": "Write a note..."
+  },
+  "reports": {
+    "title": "Reports",
+    "subtitle": "Analyze conversion, revenue and performance.",
+    "allReps": "All reps",
+    "periods": { "3m": "Last 3 months", "6m": "Last 6 months" },
+    "conversionTitle": "Deals by stage",
+    "revenueTitle": "Closed revenue by month",
+    "repTitle": "Revenue by rep",
+    "repColumns": { "name": "Rep", "deals": "Deals", "revenue": "Revenue" }
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Manage your account, team and pipeline.",
+    "tabs": {
+      "profile": "Profile",
+      "account": "Account",
+      "team": "Team",
+      "pipeline": "Pipeline",
+      "notifications": "Notifications"
+    },
+    "profile": {
+      "name": "Name",
+      "email": "Email",
+      "role": "Role",
+      "company": "Company",
+      "changePhoto": "Change photo",
+      "save": "Save changes",
+      "saved": "Profile updated"
+    },
+    "account": {
+      "current": "Current password",
+      "new": "New password",
+      "confirm": "Confirm new password",
+      "update": "Update password",
+      "updated": "Password updated",
+      "dangerTitle": "Danger zone",
+      "dangerDesc": "Deleting your account is permanent and cannot be undone.",
+      "deleteAccount": "Delete account"
+    },
+    "team": {
+      "invite": "Invite member",
+      "admin": "Administrator",
+      "member": "Member"
+    },
+    "pipeline": {
+      "desc": "Your sales funnel stages and default probabilities.",
+      "probability": "Probability"
+    },
+    "notifications": {
+      "email": "Email notifications",
+      "emailDesc": "Receive summaries and alerts by email.",
+      "push": "Push notifications",
+      "pushDesc": "Real-time alerts in the browser.",
+      "deals": "Deal updates",
+      "dealsDesc": "Alerts when a deal changes stage.",
+      "tasks": "Task reminders",
+      "tasksDesc": "Reminders for upcoming activities and tasks.",
+      "saved": "Preferences saved"
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "desc": "The page you're looking for doesn't exist or was moved.",
+    "home": "Back home",
+    "dashboard": "Go to dashboard"
+  },
+  "cookie": {
+    "title": "We use cookies",
+    "desc": "We use cookies to improve your experience and analyze traffic.",
+    "policy": "Privacy Policy",
+    "accept": "Accept",
+    "decline": "Decline"
+  }
+}

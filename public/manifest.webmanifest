@@ -1,0 +1,14 @@
+{
+  "name": "CRM — Vendas & Contatos",
+  "short_name": "CRM",
+  "description": "CRM template — sales pipeline, contacts, companies, deals and reports (Laravel + Blade + Alpine + Tailwind).",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#465fff",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/pwa-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/pwa-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

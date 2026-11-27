@@ -1,0 +1,433 @@
+{
+  "brand": "Nimbus CRM",
+  "common": {
+    "search": "Buscar",
+    "noResults": "Nenhum resultado encontrado",
+    "previous": "Anterior",
+    "next": "Próximo",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "close": "Fechar",
+    "confirm": "Confirmar",
+    "loading": "Carregando...",
+    "theme": "Tema",
+    "language": "Idioma",
+    "back": "Voltar",
+    "viewAll": "Ver tudo"
+  },
+  "nav": {
+    "features": "Recursos",
+    "how": "Como funciona",
+    "faq": "Perguntas",
+    "contact": "Contato",
+    "login": "Entrar",
+    "getStarted": "Começar grátis",
+    "dashboard": "Painel"
+  },
+  "landing": {
+    "hero": {
+      "badge": "Novo: automações de pipeline com IA",
+      "title": "Feche mais negócios com um CRM que sua equipe adora usar",
+      "subtitle": "Centralize contatos, pipeline de vendas, atividades e relatórios em um só lugar. Visibilidade total do funil para vender mais rápido.",
+      "ctaPrimary": "Entrar no painel",
+      "ctaSecondary": "Falar com vendas",
+      "noCard": "Sem cartão de crédito • Configuração em minutos"
+    },
+    "stats": {
+      "conversion": "Aumento na conversão",
+      "velocity": "Mais velocidade de vendas",
+      "teams": "Times de vendas",
+      "uptime": "Disponibilidade"
+    },
+    "features": {
+      "title": "Tudo que seu time de vendas precisa",
+      "subtitle": "Da prospecção ao fechamento, em um fluxo só.",
+      "items": {
+        "pipeline": { "title": "Pipeline visual", "desc": "Kanban de negócios com arrastar e soltar entre estágios." },
+        "contacts": { "title": "Contatos & empresas", "desc": "Base organizada com tags, dono, status e histórico completo." },
+        "activities": { "title": "Atividades & tarefas", "desc": "Ligações, e-mails, reuniões e tarefas com lembretes." },
+        "reports": { "title": "Relatórios em tempo real", "desc": "Conversão por estágio, receita e desempenho por vendedor." },
+        "automation": { "title": "Automações", "desc": "Mova estágios e dispare tarefas automaticamente." },
+        "security": { "title": "Seguro por padrão", "desc": "Controle de acesso, criptografia e logs de auditoria." }
+      }
+    },
+    "how": {
+      "title": "Comece em três passos",
+      "subtitle": "Do cadastro à primeira venda em minutos.",
+      "steps": {
+        "s1": { "title": "Importe seus contatos", "desc": "Traga sua base e organize com tags e donos." },
+        "s2": { "title": "Monte seu pipeline", "desc": "Configure estágios e arraste os negócios pelo funil." },
+        "s3": { "title": "Acompanhe e venda", "desc": "Use relatórios para focar onde há mais chance de fechar." }
+      }
+    },
+    "faqTitle": "Perguntas frequentes",
+    "faq": {
+      "q1": "Preciso de cartão para testar?",
+      "a1": "Não. Você pode explorar todo o CRM com a conta demo, sem cartão.",
+      "q2": "Consigo importar meus contatos?",
+      "a2": "Sim, você importa contatos e empresas e organiza com tags e donos.",
+      "q3": "O pipeline é personalizável?",
+      "a3": "Sim. Os estágios e probabilidades podem ser ajustados nas configurações."
+    },
+    "cta": {
+      "title": "Pronto para vender mais?",
+      "subtitle": "Junte-se a milhares de times que fecham mais negócios com o Nimbus CRM.",
+      "button": "Criar conta grátis"
+    },
+    "footer": {
+      "tagline": "O CRM all-in-one para times de vendas que querem crescer rápido.",
+      "rights": "Todos os direitos reservados.",
+      "privacy": "Privacidade",
+      "docs": "Documentação",
+      "help": "Ajuda"
+    }
+  },
+  "contact": {
+    "title": "Fale com a gente",
+    "subtitle": "Tem dúvidas? Nossa equipe responde em até 24h.",
+    "form": {
+      "name": "Nome",
+      "email": "E-mail",
+      "subject": "Assunto",
+      "message": "Mensagem",
+      "send": "Enviar mensagem",
+      "sending": "Enviando...",
+      "success": "Mensagem enviada! Retornaremos em breve.",
+      "errors": {
+        "name": "Informe seu nome",
+        "email": "E-mail inválido",
+        "subject": "Informe um assunto",
+        "message": "Mensagem muito curta"
+      }
+    },
+    "info": {
+      "email": "E-mail",
+      "phone": "Telefone",
+      "address": "Endereço",
+      "addressValue": "Av. Paulista, 1000 — São Paulo, SP"
+    }
+  },
+  "auth": {
+    "loginTitle": "Bem-vindo de volta",
+    "loginSubtitle": "Entre para acessar seu CRM.",
+    "registerTitle": "Crie sua conta",
+    "registerSubtitle": "Comece a vender melhor em segundos.",
+    "forgotTitle": "Recuperar senha",
+    "forgotSubtitle": "Enviaremos um link de redefinição para seu e-mail.",
+    "name": "Nome completo",
+    "email": "E-mail",
+    "password": "Senha",
+    "remember": "Lembrar de mim",
+    "forgot": "Esqueceu a senha?",
+    "loginCta": "Entrar",
+    "registerCta": "Criar conta",
+    "forgotCta": "Enviar link",
+    "loggingIn": "Entrando...",
+    "registering": "Criando...",
+    "sending": "Enviando...",
+    "loginSuccess": "Login realizado com sucesso!",
+    "registerSuccess": "Conta criada! Bem-vindo ao Nimbus CRM.",
+    "forgotSuccess": "Link enviado! Verifique seu e-mail.",
+    "loginError": "Credenciais inválidas. Tente novamente.",
+    "noAccount": "Não tem conta?",
+    "hasAccount": "Já tem conta?",
+    "backToLogin": "Voltar para o login",
+    "demoTitle": "Conta demo",
+    "demoHint": "Qualquer e-mail/senha funciona.",
+    "agree": "Concordo com os Termos e a Política de Privacidade",
+    "errors": {
+      "agree": "Você precisa aceitar os termos"
+    }
+  },
+  "appNav": {
+    "main": "Principal",
+    "records": "Registros",
+    "insights": "Insights",
+    "dashboard": "Painel",
+    "pipeline": "Pipeline",
+    "contacts": "Contatos",
+    "companies": "Empresas",
+    "deals": "Negócios",
+    "activities": "Atividades",
+    "reports": "Relatórios",
+    "settings": "Configurações",
+    "logout": "Sair",
+    "searchPlaceholder": "Buscar contatos, negócios...",
+    "collapse": "Recolher",
+    "notifications": "Notificações",
+    "proTitle": "Desempenho",
+    "proDesc": "Veja seus relatórios",
+    "viewReports": "Ver relatórios"
+  },
+  "notifications": {
+    "dealWon": "Negócio ganho: {{name}}",
+    "newLead": "Novo lead: {{name}}",
+    "taskDue": "Tarefa vencendo: {{name}}"
+  },
+  "stages": {
+    "lead": "Lead",
+    "qualified": "Qualificado",
+    "proposal": "Proposta",
+    "negotiation": "Negociação",
+    "won": "Ganho",
+    "lost": "Perdido"
+  },
+  "tags": {
+    "vip": "VIP",
+    "hot": "Quente",
+    "newsletter": "Newsletter",
+    "partner": "Parceiro",
+    "enterprise": "Enterprise",
+    "trial": "Trial",
+    "referral": "Indicação",
+    "inbound": "Inbound"
+  },
+  "dashboard": {
+    "title": "Painel",
+    "welcome": "Bem-vindo de volta, {{name}}",
+    "kpis": {
+      "pipeline": "Valor do pipeline",
+      "openDeals": "Negócios abertos",
+      "conversion": "Taxa de conversão",
+      "tasks": "Tarefas pendentes"
+    },
+    "revenueTitle": "Receita: fechada vs. previsão",
+    "revenueLegend": { "closed": "Fechada", "forecast": "Previsão" },
+    "funnelTitle": "Funil por estágio",
+    "activityTitle": "Atividades na semana",
+    "rankingTitle": "Ranking de vendedores",
+    "dealsWon": "{{count}} negócios ganhos",
+    "recentDeals": "Negócios recentes",
+    "todayTasks": "Tarefas de hoje",
+    "noTasks": "Nenhuma tarefa para hoje 🎉"
+  },
+  "pipeline": {
+    "title": "Pipeline",
+    "subtitle": "Arraste os negócios entre os estágios do funil.",
+    "dropHere": "Solte aqui",
+    "dragHint": "Arraste o card para mover de estágio",
+    "moved": "Negócio movido para {{stage}}"
+  },
+  "contacts": {
+    "title": "Contatos",
+    "subtitle": "Gerencie sua base de contatos.",
+    "new": "Novo contato",
+    "newTitle": "Novo contato",
+    "editTitle": "Editar contato",
+    "created": "Contato criado com sucesso",
+    "updated": "Contato atualizado",
+    "removed": "Contato removido",
+    "notFound": "Contato não encontrado",
+    "createdAt": "Criado em",
+    "email": "E-mail",
+    "call": "Ligar",
+    "tagsLabel": "Tags",
+    "tagsHint": "Separe por vírgula (ex.: vip, hot)",
+    "columns": {
+      "name": "Nome",
+      "email": "E-mail",
+      "phone": "Telefone",
+      "title": "Cargo",
+      "company": "Empresa",
+      "owner": "Responsável",
+      "status": "Status",
+      "tags": "Tags"
+    },
+    "statuses": {
+      "lead": "Lead",
+      "active": "Ativo",
+      "customer": "Cliente",
+      "inactive": "Inativo"
+    },
+    "filters": {
+      "allStatuses": "Todos os status",
+      "allOwners": "Todos os responsáveis",
+      "allTags": "Todas as tags"
+    },
+    "tabs": {
+      "overview": "Visão geral",
+      "activities": "Atividades",
+      "notes": "Notas",
+      "deals": "Negócios"
+    },
+    "errors": {
+      "name": "Informe o nome",
+      "email": "E-mail inválido"
+    }
+  },
+  "companies": {
+    "title": "Empresas",
+    "subtitle": "Organize as empresas dos seus contatos.",
+    "new": "Nova empresa",
+    "newTitle": "Nova empresa",
+    "created": "Empresa criada com sucesso",
+    "removed": "Empresa removida",
+    "columns": {
+      "name": "Empresa",
+      "industry": "Setor",
+      "size": "Tamanho",
+      "website": "Site",
+      "city": "Cidade",
+      "contacts": "Contatos",
+      "value": "Valor em negócios"
+    },
+    "sizes": {
+      "small": "Pequena",
+      "medium": "Média",
+      "large": "Grande",
+      "enterprise": "Enterprise"
+    },
+    "errors": {
+      "name": "Informe o nome"
+    }
+  },
+  "deals": {
+    "title": "Negócios",
+    "subtitle": "Acompanhe todos os negócios do seu funil.",
+    "new": "Novo negócio",
+    "newModalTitle": "Novo negócio",
+    "created": "Negócio criado com sucesso",
+    "create": "Criar negócio",
+    "empty": "Nenhum negócio",
+    "titlePlaceholder": "Ex.: Plano Enterprise — Acme",
+    "expectedClose": "Fechamento previsto",
+    "moveStage": "Mover de estágio",
+    "stageChanged": "Estágio alterado para {{stage}}",
+    "detailHint": "Clique em um estágio para mover este negócio.",
+    "columns": {
+      "title": "Negócio",
+      "value": "Valor",
+      "stage": "Estágio",
+      "contact": "Contato",
+      "company": "Empresa",
+      "owner": "Responsável",
+      "probability": "Probabilidade"
+    },
+    "filters": {
+      "allStages": "Todos os estágios",
+      "allOwners": "Todos os responsáveis"
+    },
+    "errors": {
+      "title": "Informe o título",
+      "value": "Informe um valor válido"
+    }
+  },
+  "activities": {
+    "title": "Atividades",
+    "subtitle": "Suas ligações, e-mails, reuniões e tarefas.",
+    "new": "Nova atividade",
+    "newTitle": "Nova atividade",
+    "created": "Atividade criada",
+    "create": "Criar atividade",
+    "updated": "Atividade atualizada",
+    "empty": "Nenhuma atividade",
+    "markDone": "Concluir",
+    "done": "Concluída",
+    "titlePlaceholder": "Ex.: Ligar para o cliente",
+    "types": {
+      "call": "Ligação",
+      "email": "E-mail",
+      "meeting": "Reunião",
+      "task": "Tarefa"
+    },
+    "sections": {
+      "today": "Hoje",
+      "upcoming": "Próximas",
+      "done": "Concluídas"
+    },
+    "filters": {
+      "allTypes": "Todos os tipos"
+    },
+    "columns": {
+      "title": "Título",
+      "type": "Tipo",
+      "date": "Data",
+      "contact": "Contato",
+      "owner": "Responsável"
+    },
+    "errors": {
+      "title": "Informe o título"
+    }
+  },
+  "notes": {
+    "add": "Adicionar",
+    "added": "Nota adicionada",
+    "empty": "Nenhuma nota ainda",
+    "placeholder": "Escreva uma nota..."
+  },
+  "reports": {
+    "title": "Relatórios",
+    "subtitle": "Analise conversão, receita e desempenho.",
+    "allReps": "Todos os vendedores",
+    "periods": { "3m": "Últimos 3 meses", "6m": "Últimos 6 meses" },
+    "conversionTitle": "Negócios por estágio",
+    "revenueTitle": "Receita fechada por mês",
+    "repTitle": "Receita por vendedor",
+    "repColumns": { "name": "Vendedor", "deals": "Negócios", "revenue": "Receita" }
+  },
+  "settings": {
+    "title": "Configurações",
+    "subtitle": "Gerencie sua conta, equipe e pipeline.",
+    "tabs": {
+      "profile": "Perfil",
+      "account": "Conta",
+      "team": "Equipe",
+      "pipeline": "Pipeline",
+      "notifications": "Notificações"
+    },
+    "profile": {
+      "name": "Nome",
+      "email": "E-mail",
+      "role": "Cargo",
+      "company": "Empresa",
+      "changePhoto": "Alterar foto",
+      "save": "Salvar alterações",
+      "saved": "Perfil atualizado"
+    },
+    "account": {
+      "current": "Senha atual",
+      "new": "Nova senha",
+      "confirm": "Confirmar nova senha",
+      "update": "Atualizar senha",
+      "updated": "Senha atualizada",
+      "dangerTitle": "Zona de perigo",
+      "dangerDesc": "Excluir sua conta é permanente e não pode ser desfeito.",
+      "deleteAccount": "Excluir conta"
+    },
+    "team": {
+      "invite": "Convidar membro",
+      "admin": "Administrador",
+      "member": "Membro"
+    },
+    "pipeline": {
+      "desc": "Estágios do seu funil de vendas e probabilidades padrão.",
+      "probability": "Probabilidade"
+    },
+    "notifications": {
+      "email": "Notificações por e-mail",
+      "emailDesc": "Receba resumos e alertas no seu e-mail.",
+      "push": "Notificações push",
+      "pushDesc": "Alertas em tempo real no navegador.",
+      "deals": "Atualizações de negócios",
+      "dealsDesc": "Avisos quando um negócio muda de estágio.",
+      "tasks": "Lembretes de tarefas",
+      "tasksDesc": "Lembretes de atividades e tarefas a vencer.",
+      "saved": "Preferências salvas"
+    }
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "desc": "A página que você procura não existe ou foi movida.",
+    "home": "Voltar ao início",
+    "dashboard": "Ir ao painel"
+  },
+  "cookie": {
+    "title": "Usamos cookies",
+    "desc": "Utilizamos cookies para melhorar sua experiência e analisar o tráfego.",
+    "policy": "Política de Privacidade",
+    "accept": "Aceitar",
+    "decline": "Recusar"
+  }
+}
